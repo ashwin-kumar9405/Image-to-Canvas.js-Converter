@@ -1,0 +1,35 @@
+{
+  "name": "image-to-canvasjs-converter",
+  "version": "1.0.0",
+  "description": "A tool that converts Figma exports, PNG, JPEG, or PDF files into Canvas.js objects",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -o",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "canvas",
+    "canvasjs",
+    "image",
+    "converter",
+    "pdf",
+    "figma"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.6.0",
+    "pdfjs-dist": "^2.16.105"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/image-to-canvasjs-converter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/image-to-canvasjs-converter/issues"
+  },
+  "homepage": "https://github.com/yourusername/image-to-canvasjs-converter#readme"
+}
