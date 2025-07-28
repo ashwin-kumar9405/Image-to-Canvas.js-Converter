@@ -58,7 +58,7 @@ For better performance, especially when working with PDFs, it's recommended to u
    python -m SimpleHTTPServer
    ```
 
-3. Open the provided URL in your browser (typically http://localhost:8080)
+3. Open the provided URL in your browser https://image-to-canvas-js-converter.vercel.app/
 
 ## Technologies Used
 
