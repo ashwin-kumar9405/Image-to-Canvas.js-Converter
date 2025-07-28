@@ -1,4 +1,4 @@
-# Image to Canvas.js Converter
+# Figma, PNG, JPEG, PDF to Canvas.js Converter
 
 A web-based tool that converts Figma exports, PNG, JPEG, or PDF files into Canvas.js objects.
 
