@@ -87,7 +87,7 @@ MIT
 
 ## Author
 
-[Your Name]
+Venkat Ashwin Kumar
 
 ---
 
