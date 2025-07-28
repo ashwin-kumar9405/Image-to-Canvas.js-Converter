@@ -4,7 +4,7 @@ A web-based tool that converts Figma exports, PNG, JPEG, or PDF files into Canva
 
 ## Features
 
-- Upload and convert various image formats (PNG, JPEG) and PDF files
+- Upload and convert various Figma (or) image formats (PNG, JPEG) and PDF files
 - Preview the converted image on a canvas
 - Generate Canvas.js code that reproduces the image
 - Copy the generated code with a single click
