@@ -12,7 +12,7 @@ A web-based tool that converts Figma exports, PNG, JPEG, or PDF files into Canva
 
 ## Demo
 
-[Watch the demo video on YouTube](#) (Link to be added after creating the demo)
+https://youtu.be/AOrCGjnTVak
 
 ## How to Use
 
