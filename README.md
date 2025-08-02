@@ -66,6 +66,7 @@ For better performance, especially when working with PDFs, it's recommended to u
 - JavaScript for file processing and code generation
 - PDF.js for PDF file handling
 - Canvas Confetti for visual feedback
+- Used Ml models like OCR for detection
 
 ## Limitations
 
